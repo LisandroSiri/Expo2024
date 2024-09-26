@@ -1,0 +1,77 @@
+[
+  {
+    "keyword": "Ingeniería Informática",
+    "sinonimos": ["Ingenieria en Sistemas", "Ciencias de la Computación", "Ingenieria Informatica"],
+    "answer": "La Ingeniería Informática es una disciplina que combina principios de ingeniería con ciencias de la computación para diseñar, desarrollar y mantener sistemas de software y hardware. Los profesionales en este campo aplican conocimientos técnicos y habilidades de resolución de problemas para crear soluciones tecnológicas innovadoras y eficientes."
+  },
+  {
+    "keyword": "Álgebra",
+    "sinonimos": ["Álgebra para Computación", "Fundamentos Matemáticos para Informática"],
+    "answer": "El Álgebra en Ingeniería Informática es fundamental para comprender conceptos avanzados de programación y algoritmos. Incluye temas como lógica proposicional, teoría de conjuntos, matrices y grafos, que son esenciales para el desarrollo de software y la resolución de problemas computacionales complejos."
+  },
+  {
+    "keyword": "Sistemas de Representación",
+    "sinonimos": ["Modelado Digital", "Visualización Computacional"],
+    "answer": "Los Sistemas de Representación en Ingeniería Informática se refieren a las técnicas y herramientas utilizadas para visualizar y modelar información en formato digital. Esto incluye el uso de software CAD, diseño de interfaces de usuario, y la representación gráfica de datos y algoritmos."
+  },
+  {
+    "keyword": "Programación I",
+    "sinonimos": ["Fundamentos de Programación", "Introducción al Código"],
+    "answer": "Programación I es el curso introductorio que enseña los fundamentos de la programación, incluyendo conceptos básicos como variables, estructuras de control, funciones y tipos de datos. Los estudiantes aprenden a escribir algoritmos simples y a resolver problemas utilizando un lenguaje de programación específico."
+  },
+  {
+    "keyword": "Programación II",
+    "sinonimos": ["Programación Intermedia", "Algoritmos y Estructuras de Datos"],
+    "answer": "Programación II profundiza en conceptos más avanzados como estructuras de datos (listas, pilas, colas, árboles), algoritmos de búsqueda y ordenamiento, y programación orientada a objetos. Los estudiantes aprenden a diseñar soluciones más eficientes y a manejar problemas más complejos."
+  },
+  {
+    "keyword": "Programación III",
+    "sinonimos": ["Programación Avanzada", "Desarrollo de Aplicaciones Complejas"],
+    "answer": "Programación III se enfoca en técnicas avanzadas de desarrollo de software, incluyendo patrones de diseño, programación concurrente, desarrollo de aplicaciones web y móviles, y la integración de bases de datos en aplicaciones de software."
+  },
+  {
+    "keyword": "Inteligencia Artificial",
+    "sinonimos": ["IA Aplicada", "Sistemas Inteligentes"],
+    "answer": "La Inteligencia Artificial en Ingeniería Informática se centra en el desarrollo de sistemas y algoritmos capaces de realizar tareas que típicamente requieren inteligencia humana. Incluye áreas como el aprendizaje automático, procesamiento del lenguaje natural, visión por computadora y sistemas expertos."
+  },
+  {
+    "keyword": "Sistemas de Información I",
+    "sinonimos": ["Gestión de Información Organizacional", "Fundamentos de Sistemas Empresariales"],
+    "answer": "Sistemas de Información I introduce los conceptos básicos de los sistemas de información en las organizaciones. Cubre temas como el ciclo de vida de los sistemas, análisis de requisitos, modelado de procesos de negocio y la importancia de la gestión de la información en la toma de decisiones."
+  },
+  {
+    "keyword": "Sistemas de Información II",
+    "sinonimos": ["Sistemas de Información Avanzados", "Arquitectura de SI Empresariales"],
+    "answer": "Sistemas de Información II profundiza en temas más avanzados como la arquitectura de sistemas empresariales, integración de sistemas, seguridad de la información, business intelligence y la gestión de proyectos de sistemas de información a gran escala."
+  },
+  {
+    "keyword": "Ingeniería de Software I",
+    "sinonimos": ["Procesos de Desarrollo de Software", "Metodologías de Software"],
+    "answer": "Ingeniería de Software I introduce los principios fundamentales del desarrollo de software, incluyendo metodologías de desarrollo, análisis y diseño de sistemas, gestión de requisitos, y conceptos básicos de calidad y testing de software."
+  },
+  {
+    "keyword": "Ingeniería de Software II",
+    "sinonimos": ["Gestión de Proyectos de Software", "Calidad y Arquitectura de Software"],
+    "answer": "Ingeniería de Software II se enfoca en temas avanzados como arquitectura de software, patrones de diseño, métricas de calidad, gestión de configuración, y metodologías ágiles de desarrollo. También cubre aspectos de la gestión de proyectos de software a gran escala."
+  },
+  {
+    "keyword": "Bases de Datos",
+    "sinonimos": ["Sistemas de Gestión de Datos", "Almacenamiento y Recuperación de Información"],
+    "answer": "El curso de Bases de Datos cubre el diseño, implementación y gestión de sistemas de bases de datos. Incluye temas como modelado de datos, normalización, lenguajes de consulta, transacciones, y optimización de rendimiento en sistemas de bases de datos relacionales y no relacionales."
+  },
+  {
+    "keyword": "SQL",
+    "sinonimos": ["Lenguaje de Consulta de BD", "Manipulación de Datos Estructurados"],
+    "answer": "SQL (Structured Query Language) es un lenguaje estándar para gestionar y manipular bases de datos relacionales. En Ingeniería Informática, se enseña SQL para realizar operaciones como consultas, inserciones, actualizaciones y eliminaciones de datos, así como para definir y modificar estructuras de bases de datos."
+  },
+  {
+    "keyword": "Desarrollo de Software",
+    "sinonimos": ["Ciclo de Vida del Software", "Proceso de Creación de Aplicaciones"],
+    "answer": "El Desarrollo de Software en Ingeniería Informática abarca todo el proceso de creación de aplicaciones, desde la concepción y diseño hasta la implementación y mantenimiento. Incluye la aplicación de principios de ingeniería de software, el uso de lenguajes de programación, frameworks y herramientas de desarrollo para crear soluciones de software robustas y escalables."
+  },
+  {
+    "keyword": "Metodologías Ágiles",
+    "sinonimos": ["Desarrollo Iterativo", "Enfoques de Desarrollo Flexibles"],
+    "answer": "Las Metodologías Ágiles son enfoques iterativos e incrementales para el desarrollo de software que enfatizan la flexibilidad, la colaboración y la entrega rápida de valor. En Ingeniería Informática, se estudian metodologías como Scrum, Kanban y Extreme Programming, que promueven la adaptabilidad a los cambios y la mejora continua en los proyectos de desarrollo de software."
+  }
+]
