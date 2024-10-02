@@ -1,6 +1,6 @@
 com\example\chatBotIngInformatica\model\Keyword.class
 com\example\chatBotIngInformatica\controller\PreguntaController.class
 com\example\chatBotIngInformatica\service\PreguntaService.class
+com\example\chatBotIngInformatica\utils\TextoNormalizador.class
 com\example\chatBotIngInformatica\ChatBotIngInformaticaApplication.class
 com\example\chatBotIngInformatica\service\PreguntaService$1.class
-com\example\chatBotIngInformatica\utils\TextoNormalizador.class
