@@ -1,77 +1,263 @@
 [
   {
     "keyword": "Ingeniería Informática",
-    "sinonimos": ["Ingenieria en Sistemas", "Ciencias de la Computación", "Ingenieria Informatica"],
+    "sinonimos": ["Ing. Informatica", "Ing Informatica", "Ingenieria Informatica", "Ingenieria en Informatica"],
     "answer": "La Ingeniería Informática es una disciplina que combina principios de ingeniería con ciencias de la computación para diseñar, desarrollar y mantener sistemas de software y hardware. Los profesionales en este campo aplican conocimientos técnicos y habilidades de resolución de problemas para crear soluciones tecnológicas innovadoras y eficientes."
   },
   {
     "keyword": "Álgebra",
-    "sinonimos": ["Álgebra para Computación", "Fundamentos Matemáticos para Informática"],
+    "sinonimos": ["Álgebra para Computación", "Fundamentos Matemáticos para Informática", "Algebra", "Algebra I", "Algebra II"],
     "answer": "El Álgebra en Ingeniería Informática es fundamental para comprender conceptos avanzados de programación y algoritmos. Incluye temas como lógica proposicional, teoría de conjuntos, matrices y grafos, que son esenciales para el desarrollo de software y la resolución de problemas computacionales complejos."
   },
   {
-    "keyword": "Sistemas de Representación",
-    "sinonimos": ["Modelado Digital", "Visualización Computacional"],
+    "keyword": "Sistemas de Representacion",
+    "sinonimos": ["Modelado Digital", "Visualización Computacional","sistemas de Representacion"],
     "answer": "Los Sistemas de Representación en Ingeniería Informática se refieren a las técnicas y herramientas utilizadas para visualizar y modelar información en formato digital. Esto incluye el uso de software CAD, diseño de interfaces de usuario, y la representación gráfica de datos y algoritmos."
   },
   {
-    "keyword": "Programación I",
-    "sinonimos": ["Fundamentos de Programación", "Introducción al Código"],
+    "keyword": "Programacion i",
+    "sinonimos": ["Fundamentos de Programación", "Introducción al Código","programacion i"],
     "answer": "Programación I es el curso introductorio que enseña los fundamentos de la programación, incluyendo conceptos básicos como variables, estructuras de control, funciones y tipos de datos. Los estudiantes aprenden a escribir algoritmos simples y a resolver problemas utilizando un lenguaje de programación específico."
   },
   {
-    "keyword": "Programación II",
-    "sinonimos": ["Programación Intermedia", "Algoritmos y Estructuras de Datos"],
+    "keyword": "Programacion ii",
+    "sinonimos": ["Programación Intermedia", "Algoritmos y Estructuras de Datos","programacion ii"],
     "answer": "Programación II profundiza en conceptos más avanzados como estructuras de datos (listas, pilas, colas, árboles), algoritmos de búsqueda y ordenamiento, y programación orientada a objetos. Los estudiantes aprenden a diseñar soluciones más eficientes y a manejar problemas más complejos."
   },
   {
-    "keyword": "Programación III",
-    "sinonimos": ["Programación Avanzada", "Desarrollo de Aplicaciones Complejas"],
+    "keyword": "Programacion iii",
+    "sinonimos": ["Programación Avanzada", "Desarrollo de Aplicaciones Complejas","programacion iii"],
     "answer": "Programación III se enfoca en técnicas avanzadas de desarrollo de software, incluyendo patrones de diseño, programación concurrente, desarrollo de aplicaciones web y móviles, y la integración de bases de datos en aplicaciones de software."
   },
   {
     "keyword": "Inteligencia Artificial",
-    "sinonimos": ["IA Aplicada", "Sistemas Inteligentes"],
+    "sinonimos": ["IA Aplicada", "Sistemas Inteligentes","Inteligencia Artificial"],
     "answer": "La Inteligencia Artificial en Ingeniería Informática se centra en el desarrollo de sistemas y algoritmos capaces de realizar tareas que típicamente requieren inteligencia humana. Incluye áreas como el aprendizaje automático, procesamiento del lenguaje natural, visión por computadora y sistemas expertos."
   },
   {
     "keyword": "Sistemas de Información I",
-    "sinonimos": ["Gestión de Información Organizacional", "Fundamentos de Sistemas Empresariales"],
+    "sinonimos": ["Gestión de Información Organizacional", "Fundamentos de Sistemas Empresariales","Sistemas de Información i"],
     "answer": "Sistemas de Información I introduce los conceptos básicos de los sistemas de información en las organizaciones. Cubre temas como el ciclo de vida de los sistemas, análisis de requisitos, modelado de procesos de negocio y la importancia de la gestión de la información en la toma de decisiones."
   },
   {
     "keyword": "Sistemas de Información II",
-    "sinonimos": ["Sistemas de Información Avanzados", "Arquitectura de SI Empresariales"],
+    "sinonimos": ["Sistemas de Información Avanzados", "Arquitectura de SI Empresariales","Sistemas de Información II"],
     "answer": "Sistemas de Información II profundiza en temas más avanzados como la arquitectura de sistemas empresariales, integración de sistemas, seguridad de la información, business intelligence y la gestión de proyectos de sistemas de información a gran escala."
   },
   {
     "keyword": "Ingeniería de Software I",
-    "sinonimos": ["Procesos de Desarrollo de Software", "Metodologías de Software"],
+    "sinonimos": ["Procesos de Desarrollo de Software", "Metodologías de Software","Ingeniería de Software I"],
     "answer": "Ingeniería de Software I introduce los principios fundamentales del desarrollo de software, incluyendo metodologías de desarrollo, análisis y diseño de sistemas, gestión de requisitos, y conceptos básicos de calidad y testing de software."
   },
   {
     "keyword": "Ingeniería de Software II",
-    "sinonimos": ["Gestión de Proyectos de Software", "Calidad y Arquitectura de Software"],
+    "sinonimos": ["Gestión de Proyectos de Software", "Calidad y Arquitectura de Software","Ingeniería de Software II"],
     "answer": "Ingeniería de Software II se enfoca en temas avanzados como arquitectura de software, patrones de diseño, métricas de calidad, gestión de configuración, y metodologías ágiles de desarrollo. También cubre aspectos de la gestión de proyectos de software a gran escala."
   },
   {
     "keyword": "Bases de Datos",
-    "sinonimos": ["Sistemas de Gestión de Datos", "Almacenamiento y Recuperación de Información"],
+    "sinonimos": ["Sistemas de Gestión de Datos", "Almacenamiento y Recuperación de Información","Bases de Datos"],
     "answer": "El curso de Bases de Datos cubre el diseño, implementación y gestión de sistemas de bases de datos. Incluye temas como modelado de datos, normalización, lenguajes de consulta, transacciones, y optimización de rendimiento en sistemas de bases de datos relacionales y no relacionales."
   },
   {
     "keyword": "SQL",
-    "sinonimos": ["Lenguaje de Consulta de BD", "Manipulación de Datos Estructurados"],
+    "sinonimos": ["Lenguaje de Consulta de BD", "Manipulación de Datos Estructurados","sql"],
     "answer": "SQL (Structured Query Language) es un lenguaje estándar para gestionar y manipular bases de datos relacionales. En Ingeniería Informática, se enseña SQL para realizar operaciones como consultas, inserciones, actualizaciones y eliminaciones de datos, así como para definir y modificar estructuras de bases de datos."
   },
   {
     "keyword": "Desarrollo de Software",
-    "sinonimos": ["Ciclo de Vida del Software", "Proceso de Creación de Aplicaciones"],
+    "sinonimos": ["Ciclo de Vida del Software", "Proceso de Creación de Aplicaciones","Desarrollo de Software"],
     "answer": "El Desarrollo de Software en Ingeniería Informática abarca todo el proceso de creación de aplicaciones, desde la concepción y diseño hasta la implementación y mantenimiento. Incluye la aplicación de principios de ingeniería de software, el uso de lenguajes de programación, frameworks y herramientas de desarrollo para crear soluciones de software robustas y escalables."
   },
   {
     "keyword": "Metodologías Ágiles",
-    "sinonimos": ["Desarrollo Iterativo", "Enfoques de Desarrollo Flexibles"],
+    "sinonimos": ["Desarrollo Iterativo", "Enfoques de Desarrollo Flexibles","Metodologias agiles"],
     "answer": "Las Metodologías Ágiles son enfoques iterativos e incrementales para el desarrollo de software que enfatizan la flexibilidad, la colaboración y la entrega rápida de valor. En Ingeniería Informática, se estudian metodologías como Scrum, Kanban y Extreme Programming, que promueven la adaptabilidad a los cambios y la mejora continua en los proyectos de desarrollo de software."
-  }
-]
+  },
+  {
+    "keyword": "Duracion",
+    "sinonimos": ["Duracion de la carrera", "Cuanto dura", "Cuanto dura la carrera","duracion"],
+    "answer": "La duracion de la carrera es de 5 años, según lo estipulado en el plan de estudios."
+  },
+  {
+    "keyword": "Conocimientos previos",
+    "sinonimos": ["conocimientos necesarios", "conocimientos pre-facultativos", "conocimientos pre facultativos","Conocimientos previos"],
+    "answer": "No es necesario tener conocimientos previos, aunque puede ser util. Talque las asignaturas comienzan desde lo basico, pero es importante tener interes en aprender."
+  },
+  {
+    "keyword": "Salida laboral",
+    "sinonimos": ["trabajos", "rubro", "mundo laboral","salida laboral"],
+    "answer": "Los egresados pueden trabajar como desarrolladores de software, analistas de sistemas, administradores de bases de datos, ingenieros de redes, expertos en seguridad informatica, entre otros."
+  },
+  {
+    "keyword": "Dficultad",
+    "sinonimos": ["Dificultad de la carrera", "Dificil"],
+    "answer": "La carrera de Ingenieria en Informatica puede ser exigente, especialmente en areas como matematicas y programacion, pero con dedicacion y practica, es posible superar los desafios."
+  },
+  {
+    "keyword": "Lenguajes de Programacion",
+    "sinonimos": ["Lenguajes", "Lenguajes usados en la carrera","Lenguajes de Programacion"],
+    "answer": "Algunos de los lenguajes de programacion mas comunes que se aprenden en la carrera son Python, Java ,C , C++, C#, JavaScript, PHP, SQL"
+  },
+  {
+    "keyword": "Habilidades matematicas",
+    "sinonimos": ["Nivel de Matematicas", "Abstraccion matematica"],
+    "answer": "Si, las matematicas son una parte importante de la carrera, especialmente en areas como algoritmos, estructuras de datos y criptografia. Sin embargo, las habilidades matematicas se van desarrollando durante la carrera"
+  },
+  {
+    "keyword": "Proyectos",
+    "sinonimos": ["Trabajos Practicos", "Proyectos de programacion","proyectos"],
+    "answer": "Los proyectos varian desde la creacion de aplicaciones web y moviles, hasta el desarrollo de algoritmos avanzados, simulaciones y sistemas embebidos."
+  },
+  {
+    "keyword": "Diferencia entre ing. informatica y ciencias de la computacion",
+    "sinonimos": ["Diferencia entre ing informatica y ciencias de la computacion", "Diferencia entre ingenieria informatica y ciencias de la computacion"],
+    "answer": "Ingenieria en Informatica se enfoca mas en la aplicacion practica de la tecnologia, incluyendo hardware y software, mientras que Ciencias de la Computacion se centra mas en la teoria, los algoritmos y la investigacion cientifica en computacion."
+  },
+  {
+    "keyword": "Desarrollo de videojuegos",
+    "sinonimos": ["Campo del desarrollo de videojuegos", "Programacion de videojuegos", "Gaming developer","Desarrollo de videojuegos","desarrollo de juegos"],
+    "answer": "El desarrollo de videojuegos es una opcion para los ingenieros en informatica, que incluye el desarrollo de motores graficos, inteligencia artificial para personajes, y optimizacion del rendimiento en diversas plataformas."
+  },
+  {
+    "keyword": "Habilidades blandas",
+    "sinonimos": [" soft skills", " habilidades interpersonales"],
+    "answer": "Ademas de las habilidades tecnicas, habilidades blandas como la resolucion de problemas, el trabajo en equipo, la comunicacion efectiva y la gestion del tiempo son esenciales para tener exito en Ingenieria en Informatica."
+  },
+  {
+    "keyword": "Contratacion",
+    "sinonimos": ["Contratos de trabajo", "Puestos de trabajo","contratacion"],
+    "answer": "Empresas de tecnologia, bancos, aseguradoras, startups, empresas de telecomunicaciones, organismos gubernamentales y consultoras tecnicas son algunos de los lugares que contratan Ingenieros en Informatica."
+  },
+  {
+    "keyword": "trabajar durante la carrera",
+    "sinonimos": ["trabajo durante la carrera", "empleo durante la carrera", "trabajos durante el cursado"],
+    "answer": "Si, muchos estudiantes encuentran trabajo como pasantes o en puestos de nivel inicial durante la carrera. Sin embargo, la gestion del tiempo es clave para equilibrar estudio y trabajo."
+  },
+  {
+    "keyword": "Especializacion",
+    "sinonimos": ["especializaciones", "especializacion de la carrera","Especializacion"],
+    "answer": "Si, puedes especializarte en areas como inteligencia artificial, ciencia de datos, ciberseguridad, desarrollo de software, redes, entre otras."
+  },
+  {
+    "keyword": " diferencia entre Ingenieria en Informatica y Sistemas",
+    "sinonimos": ["diferencia entre Ingenieria en Informatica y Ingenieria en Sistemas", "diferencia entre Ing. en Informatica y Ing. en Sistemas", "diferencia entre Ing en Informatica y Ing en Sistemas", "diferencia entre Ing Informatica y Ing en Sistemas", "diferencia entre Ingenieria Informatica y Ingenieria en Sistemas", "diferencia entre Ing. Informatica y Ing. en Sistemas"],
+    "answer": "Ingenieria en Informatica se enfoca mas en el desarrollo de software, programacion y las bases teoricas de la computacion, mientras que Ingenieria en Sistemas incluye tambien el estudio de procesos y la gestion de sistemas complejos en una organizacion, abarcando tanto tecnologia como gestion."
+  },
+  {
+    "keyword": "Ingenieria en Sistemas",
+    "sinonimos": ["Ing. en Sistema", "Ing en Sistemas", "Ingenieria en Sistemas de la informacion", "Ing. en Sistemas de la informacion", "Ing en Sistemas de la informacion","Ingenieria en Sistemas"],
+    "answer": "Lo siento pero esa carrera no se encuentra en la Universidad del Norte Santo Tomas de Aquino "
+  },
+  {
+    "keyword": "diferencia entre Ingenieria en Informatica y Ingenieria en Inteligencia Artificial",
+    "sinonimos": ["diferencia entre Ingenieria en Informatica y Ingenieria en Inteligencia Artificial", "diferencia entre Ing. en Informatica y Ing. en Inteligencia Artificial", "diferencia entre Ing en Informatica y Ing en Inteligencia Artificial", "diferencia entre Ing Informatica y Ing en Inteligencia Artificial", "diferencia entre Ingenieria Informatica y Ingenieria en Inteligencia Artificial", "diferencia entre Ing. Informatica y Ing. en Inteligencia Artificial"],
+    "answer": "Ingenieria en Informatica cubre un amplio espectro de areas de tecnologia, incluyendo el desarrollo de software y redes, mientras que Ingenieria en Inteligencia Artificial esta mas enfocada en el desarrollo de algoritmos y sistemas que permiten a las maquinas aprender y tomar decisiones de manera automatica, usando tecnicas avanzadas de aprendizaje automatico y procesamiento de datos."
+  },
+  {
+    "keyword": "diferencias entre desarrollo web y desarrollo de software",
+    "sinonimos": ["diferencias entre web developer y software developer","diferencias entre desarrollo web y desarrollo de software"],
+    "answer": "El desarrollo web se enfoca en crear aplicaciones accesibles desde navegadores web, mientras que el desarrollo de software abarca una mayor gama de aplicaciones, incluyendo software de escritorio, aplicaciones moviles y sistemas embebidos."
+  },
+  {
+    "keyword": "posgrados",
+    "sinonimos": ["posgrados en ing. informatica", "posgrados en ing informatica", "posgrados en ingenieria informatica"],
+    "answer": "Puedes especializarte en areas como ciencia de datos, inteligencia artificial, ciberseguridad, desarrollo de videojuegos, desarrollo de software, redes y sistemas distribuidos."
+  },
+  {
+    "keyword": "Importancia de la Base de Datos",
+    "sinonimos": ["Importancia de la BD", "Importancia de la B.D.","importancia de la base de datos"],
+    "answer": "Las bases de datos son fundamentales para almacenar, organizar y gestionar grandes cantidades de informacion de manera eficiente. Los ingenieros en informatica aprenden a dise\u00f1ar, implementar y optimizar bases de datos para distintas aplicaciones"
+  },
+  {
+    "keyword": "Sistemas distribuidos",
+    "sinonimos": ["Sist. distribuidos"],
+      "answer": "Los sistemas distribuidos son un area que estudia como varios equipos o servidores pueden trabajar juntos para realizar tareas compartidas, lo que es esencial para aplicaciones escalables como los servicios en la nube."
+      },
+      {
+        "keyword": "Ciberseguridad",
+        "sinonimos": ["Ciberseguridad informatica", "Cibersecurity", "Informatic Cibersecurity","Ciberseguridad"],
+        "answer": "La ciberseguridad en ingeniería informática protege sistemas y datos de ataques, abarcando seguridad en redes, cifrado, desarrollo seguro, gestión de riesgos y cumplimiento de normativas."
+      },
+      {
+        "keyword": "rol de la inteligencia artificial",
+        "sinonimos": ["rol que juega la inteligencia artificial","rol de la inteligencia artificial"],
+        "answer": "La inteligencia artificial es un campo de creciente importancia en Ingenieria en Informatica, con aplicaciones en reconocimiento de voz, vision por computadora, sistemas de recomendacion, y automatizacion de tareas complejas."
+      },
+      {
+        "keyword": " Trabajos en el extranjero",
+        "sinonimos": ["Empleos en el extrajero", "Contratos en el extrajero", "Salida laboral en el extrejero", "Empleos fuera del pais"],
+        "answer": "Si, la demanda de ingenieros en informatica es global, y con el conocimiento de tecnologias y lenguajes de programacion estandarizados, muchos profesionales pueden encontrar oportunidades de trabajo en el extranjero o trabajar de manera remota."
+      },
+      {
+        "keyword": "Salario",
+        "sinonimos": ["Remuneracion", "Cobra", "Cobro","sueldo","salario"],
+        "answer": "En Argentina, el sueldo promedio de un ingeniero informático es de $1.850.688 pesos por mes pero el salario de un ingeniero informático puede variar dependiendo de varios factores, como el país, la empresa, la ubicación geográfica, el nivel de experiencia y los conocimientos de programación por ejemplo en Estados Unidos, el salario promedio de un ingeniero informático es de $80,613 dolares al año,"
+      },
+      {
+        "keyword": "Plan de Estudio",
+        "sinonimos": ["Asignaturas totales", "Materias de toda la carrera","Plan de Estudio"],
+        "answer": "Primer Año: MATEMATICA I – FISICA I – FORMACION HUMANISTICA I – ALGEBRA I – INTRODUCCION A LA INFORMATICA – SISTEMAS DE REPRESENTACION – IDIOMA EXTRANJERO I – ALGEBRA II – PROGRAMACION I, Segundo Año: MATEMATICA II – FISICA II – PROGRAMACION II – FORMACION HUMANISTICA II – ALGEBRA DISCRETA – IDIOMA EXTRANJERO II – ESTRUCTURA DE DATOS I – QUIMICA GENERAL – ELECTRONICA BASICA – ESTRUCTURAS DE DATOS II, Tercer Año: ARQUITECTURA DE COMPUTADORES I – FORMACION HUMANISTICA III – METODOS NUMERICOS – BASES DE DATOS – INFORMATICA TEORICA – TEORIA DE SISTEMAS Y MODELOS – PROBABILIDAD Y ESTADISTICA – INVESTIGACION OPERATIVA – PROGRAMACION III – COMUNICACION DE DATOS, Cuarto Año: FORMACION HUMANISTICA IV – ARQUITECTURA DE COMPUTADORES II – SISTEMAS DE INFORMACION I – INGENIERIA DE SOFTWARE I – TELEINFORMATICA I – ECONOMIA – INTELIGENCIA ARTIFICIAL – SISTEMAS OPERATIVOS – COMPILADORES Y TRASLADORES – TELEINFORMATICA II – EVAL. Y FORM. DE PROYECTOS – ORG. EMPRESARIAL E INDUSTRIAL – TRABAJO DE CAMPO, Quinto Año: SEMINARIO HUMANISTICO I – GESTION AMBIENTAL – EVAL. Y SELEC. DE EQ. DE HARDWARE – SISTEMAS DE INFORMACION II – INGENIERIA DE SOFTWARE II – AUDITORIA DE SISTEMAS – LEGISLACION – SEGURIDAD DE SISTEMAS – SEMINARIO HUMANISTICO II – SEMINARIO DE INFORMATICA I – SEMINARIO DE INFORMATICA II – GESTION DE RRHH – PROYECTO FINAL INTEGRADOR"
+      },
+      {
+        "keyword": "Materias de Primer Año",
+        "sinonimos": ["Materias de primero", "Asignaturas de primero","Materias de Primer Año"],
+        "answer": "MATEMATICA I – FISICA I – FORMACION HUMANISTICA I – ALGEBRA I – INTRODUCCION A LA INFORMATICA – SISTEMAS DE REPRESENTACION – IDIOMA EXTRANJERO I – ALGEBRA II – PROGRAMACION I"
+      },
+      {
+        "keyword": "Materias de Segundo Año",
+        "sinonimos": ["Materias de segundo", "Asignaturas de segundo","Materias de Segundo Año"],
+        "answer": "MATEMATICA II – FISICA II – PROGRAMACION II – FORMACION HUMANISTICA II – ALGEBRA DISCRETA – IDIOMA EXTRANJERO II – ESTRUCTURA DE DATOS I – QUIMICA GENERAL – ELECTRONICA BASICA – ESTRUCTURAS DE DATOS II"
+      },
+      {
+        "keyword": "Materias de Tercer Año",
+        "sinonimos": ["Materias de tercero", "Asignaturas de tercero","Materias de Tercer Año"],
+        "answer": "ARQUITECTURA DE COMPUTADORES I – FORMACION HUMANISTICA III – METODOS NUMERICOS – BASES DE DATOS – INFORMATICA TEORICA – TEORIA DE SISTEMAS Y MODELOS – PROBABILIDAD Y ESTADISTICA – INVESTIGACION OPERATIVA – PROGRAMACION III – COMUNICACION DE DATOS"
+      },
+      {
+        "keyword": "Materias de Cuarto Año",
+        "sinonimos": ["Asignaturas de cuarto","Materias de Cuarto Año","materias de cuarto"],
+        "answer": "FORMACION HUMANISTICA IV – ARQUITECTURA DE COMPUTADORES II – SISTEMAS DE INFORMACION I – INGENIERIA DE SOFTWARE I – TELEINFORMATICA I – ECONOMIA – INTELIGENCIA ARTIFICIAL – SISTEMAS OPERATIVOS – COMPILADORES Y TRASLADORES – TELEINFORMATICA II – EVAL. Y FORM. DE PROYECTOS – ORG. EMPRESARIAL E INDUSTRIAL – TRABAJO DE CAMPO"
+      },
+      {
+        "keyword": "Materias de Quinto Año",
+        "sinonimos": ["Asignaturas de Quinto","materias de quinto","materias de quinto año"],
+        "answer": "SEMINARIO HUMANISTICO I – GESTION AMBIENTAL – EVAL. Y SELEC. DE EQ. DE HARDWARE – SISTEMAS DE INFORMACION II – INGENIERIA DE SOFTWARE II – AUDITORIA DE SISTEMAS – LEGISLACION – SEGURIDAD DE SISTEMAS – SEMINARIO HUMANISTICO II – SEMINARIO DE INFORMATICA I – SEMINARIO DE INFORMATICA II – GESTION DE RRHH – PROYECTO FINAL INTEGRADOR"
+      },
+      {
+        "keyword": "Inserción Laboral:",
+        "sinonimos": ["Integración laboral", "Incorporación al mercado de trabajo", "Incorporación profesional"],
+        "answer": "Análisis y Diseño de Sistemas de Información – Desarrollos de aplicaciones web y bajo redes de cualquier tipo – Diseño y construcción de sistemas empleando técnicas y modelos de IA – Ejecución y conducción de proyectos de software – Coordinar el área de sistemas de empresas y organizaciones – Trabajo interdisciplinario – Manejo de Idiomas"
+      },
+      {
+        "keyword": "Diseño curricular",
+        "sinonimos": ["Estructura curricular", "Planificación curricular", "Diseño de programas educativos"],
+        "answer": "Los estudiantes adquieren las habilidades metodologías y técnicas para el análisis, diseño, desarrollo y gestión de tecnologías, empleando estándares internacionales. La formación se complementa con el entrenamiento en modernos laboratorios de ciencias básicas, aplicadas como robótica, entre otras, y de desarrollo de proyectos de software de envergadura profesional, manteniendo contacto con clientes reales, que brindan al egresado la competencia adecuada para insertarse rápidamente en el mercado laboral."
+      },
+      {
+        "keyword": "Campus de Ingenieria Informatica",
+        "sinonimos": ["Dictado", "Lugares para estudiar", "Ubicacion","Campus de Ingenieria Informatica"],
+        "answer": "Los campus para estudiar ingenieria en informatica son dos en el Campus de la Sede Concepcion y en el Campus de la Sede de Yerba Buena "
+      },
+      {
+        "keyword": "Director de Carrera",
+        "sinonimos": ["Encargado", "Administrador", "Gestor","Director de Carrera"],
+        "answer": "Los directores de la Carrera Ingenieria en Informatica son dos el Ing. Tulio Ruesjas (Campus de Concepcion) y el Ing. Rico Ernesto Jose (Campus de Yerba Buena) "
+      },
+      {
+        "keyword": "Perfil profesional",
+        "sinonimos": ["Descripción profesional", "Ficha profesional", "Perfil ocupacional","Perfil profesional"],
+        "answer": "El Ingeniero en Informática de UNSTA es un profesional que cuenta con sólidos conocimientos para la conducción de proyectos y el desarrollo de aplicaciones de software y software-hardware, bajo estructuras convencionales o modelos de Inteligencia Artificial, pudiendo adaptarse a nuevos desafíos tecnológicos."
+      },
+      {
+        "keyword": "backend frontend",
+        "sinonimos": ["backend","frontend","diferencias entre backend y frontend"],
+        "answer": " El front end es aquello que ven los usuarios e incluye elementos visuales, como botones, casillas de verificación, gráficos y mensajes de texto. Permite a los usuarios interactuar con la aplicación. El back-end son los datos y la infraestructura que permiten que la aplicación funcione."
+
+      },
+      {
+        "keyword": "fullstack",
+        "sinonimos": ["fullstack","fullstack developer","peogramador fullstack","programador fullstack developer","desarrollador fullstack"],
+        "answer": "Un desarrollador full stack es un especialista en el desarrollo de sitios web que integra el diseño de la experiencia del cliente en una página (front end), así como la programación y mantenimiento de la arquitectura interna del sitio (back end)."
+      }
+    ]
