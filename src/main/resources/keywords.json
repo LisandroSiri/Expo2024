@@ -61,7 +61,7 @@
   },
   {
     "keyword": "SQL",
-    "sinonimos": ["Lenguaje de Consulta de BD", "Manipulación de Datos Estructurados","sql"],
+    "sinonimos": ["Lenguaje de Consulta de BD", "Manipulación de Datos Estructurados"],
     "answer": "SQL (Structured Query Language) es un lenguaje estándar para gestionar y manipular bases de datos relacionales. En Ingeniería Informática, se enseña SQL para realizar operaciones como consultas, inserciones, actualizaciones y eliminaciones de datos, así como para definir y modificar estructuras de bases de datos."
   },
   {
